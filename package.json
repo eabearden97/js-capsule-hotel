@@ -1,0 +1,22 @@
+{
+  "name": "js-capsule-hotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eabearden97/js-capsule-hotel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eabearden97/js-capsule-hotel/issues"
+  },
+  "homepage": "https://github.com/eabearden97/js-capsule-hotel#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
